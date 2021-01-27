@@ -1,0 +1,25 @@
+{
+  "path": {
+    "audio": "/mz-545-3.mp3",
+    "midi": "/track.json"
+  },
+  "play": {
+    "track": {
+      "forbid": [1],
+      "total": 543
+    },
+    "drop": {
+      "speed": 5,
+      "delay": 3,
+      "maxdur": 5,
+      "end": 110
+    },
+    "click": {
+      "per": 4,
+      "low": 45,
+      "cal": 24,
+      "high": 69,
+      "trans": {}
+    }
+  }
+}
